@@ -139,4 +139,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PROPERTY_OVERRIDES += \
    ro.config.ringtone=Zen_too.ogg,Zen_too.ogg \
-   ro.config.notification_sound=Chime.ogg
+   ro.config.notification_sound=Chime.ogg \
+   ro.config.alarm_alert=Helium.ogg
+
